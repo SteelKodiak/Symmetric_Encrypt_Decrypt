@@ -1,0 +1,3 @@
+pip install secrets 
+pip install cryptography 
+pip install fernet 
